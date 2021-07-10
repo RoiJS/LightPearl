@@ -1,0 +1,20 @@
+<?php
+$sesFiles = '../../sesFiles/';
+$viewSesFiles = 'sesFiles/';
+$announcements = 'announcements/';
+$announcementsFiles = 'announcements_files/';
+$announcementsImages = 'announcements_images/';
+$activities = 'activities/'; 
+$activitiesImages = 'activity_images/';
+$blogs = 'blogs/';
+$blogsImages = 'blogs_images/';
+$events = 'events/';
+$eventImages = 'events_images/';
+$gallery = 'gallery/';
+$galleryImages = 'gallery_images/';
+$organizationDirectory = 'organizationDirectory/';
+$organizationDirectoryImages = 'organizationDirectory_images/';
+$faculty = 'faculty/';
+$facultyImages = 'facultyImages/';
+$principals = 'principals/';
+$principalsImages = 'principals_images/';
